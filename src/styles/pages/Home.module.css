@@ -1,0 +1,23 @@
+.container {
+    height: 100vh;
+    max-width: 992px;
+    margin: 0 auto;
+    padding: 2.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container section {
+    flex: 1;
+    padding-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    justify-content: center;
+}
+
+.sectionContainer {
+    height: 34rem;
+    width: 21rem;
+}
+
